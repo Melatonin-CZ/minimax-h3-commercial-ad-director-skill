@@ -35,6 +35,11 @@ Packaged file:
 - References: `skill-source/references/`
 - Smoke tests: `smoketest/`
 
+### Related Skills
+- Director Prompt: https://github.com/Melatonin-CZ/minimax-h3-director-prompt-skill
+- Instagram Style Director: https://github.com/Melatonin-CZ/minimax-h3-instagram-style-director-skill
+- Reference Video Remix: https://github.com/Melatonin-CZ/minimax-h3-reference-video-remix-skill
+
 ### Typical Use
 Use this skill when you need a performance or brand commercial video prompt and want explicit structure, clear claims, and usable CTA timing in a 5-15s MiniMax H3 clip.
 
@@ -61,6 +66,11 @@ Use this skill when you need a performance or brand commercial video prompt and 
 - 参考资料：`skill-source/references/`
 - 冒烟测试：`smoketest/`
 
+### 关联 Skills
+- 导演风格提示词： https://github.com/Melatonin-CZ/minimax-h3-director-prompt-skill
+- Instagram 风格导演： https://github.com/Melatonin-CZ/minimax-h3-instagram-style-director-skill
+- 参考视频重制： https://github.com/Melatonin-CZ/minimax-h3-reference-video-remix-skill
+
 ### 适用场景
 当你需要可投放的广告向视频提示词，并且希望在 5-15 秒内明确节奏、卖点和 CTA 落点时，使用此 skill。
 
@@ -86,6 +96,11 @@ Hook-Problem-Solution-CTA、プロダクトヒーロー、UGC/証言、Before/Af
 - コアワークフロー: `skill-source/SKILL.md`
 - 参照資料: `skill-source/references/`
 - スモークテスト: `smoketest/`
+
+### 関連 Skills
+- Director Prompt: https://github.com/Melatonin-CZ/minimax-h3-director-prompt-skill
+- Instagram Style Director: https://github.com/Melatonin-CZ/minimax-h3-instagram-style-director-skill
+- Reference Video Remix: https://github.com/Melatonin-CZ/minimax-h3-reference-video-remix-skill
 
 ### 主な利用シーン
 5-15秒の広告動画で、構成・訴求・CTAの着地を明確にした実用的なプロンプトが必要な場合に使用します。
