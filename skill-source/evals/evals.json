@@ -1,0 +1,19 @@
+{
+  "skill_name": "minimax-h3-commercial-ad-director",
+  "evals": [
+    {
+      "id": 1,
+      "name": "dr-cta-automotive-15s",
+      "prompt": "I run a small auto detailing shop and want a 15 second direct-response style ad, hook problem solution cta, trying to get people to book an appointment this week",
+      "expected_output": "A certified T2VA prompt, 15s, Hook-Problem-Solution-CTA structure + Automotive category playbook, end-card reserved before body, hook under 3s, claim-cut rhythm every 2-3s, verbatim CTA text matching spoken CTA.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "bumper-finance-6s",
+      "prompt": "need a 6 second bumper ad for a budgeting app, insurance/finance category feel, trustworthy and calm",
+      "expected_output": "A certified T2VA prompt, 6s, 6-Second Bumper structure + Finance/Insurance/Pharma category playbook, brand/product visible within 1.0s, at most one cut, CTA embedded in the single message rather than a separate end-card beat.",
+      "files": []
+    }
+  ]
+}
