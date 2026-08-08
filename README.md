@@ -1,6 +1,16 @@
 # MiniMax H3 Commercial Ad Director Skill
 
-English | 简体中文
+![Docs](https://img.shields.io/badge/Docs-EN%20%7C%20ZH--CN%20%7C%20JA-blue)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Open%20Standard-2ea44f)
+![Runtimes](https://img.shields.io/badge/Runtimes-Claude%20Code%20%7C%20Codex%20CLI-orange)
+
+English | 简体中文 | 日本語
+
+## Table of Contents
+
+- [English](#english)
+- [简体中文](#简体中文)
+- [日本語](#日本語)
 
 ## English
 
@@ -53,3 +63,29 @@ Use this skill when you need a performance or brand commercial video prompt and 
 
 ### 适用场景
 当你需要可投放的广告向视频提示词，并且希望在 5-15 秒内明确节奏、卖点和 CTA 落点时，使用此 skill。
+
+## 日本語
+
+### 概要
+この skill は MiniMax H3（Hailuo 3.0）向けの商用広告プロンプトを生成し、フレーム精度のタイムライン設計を提供します。
+Hook-Problem-Solution-CTA、プロダクトヒーロー、UGC/証言、Before/After、6秒バンパーなどの広告構成に対応します。
+
+### 特長
+- 公式 MiniMax H3 フィールド構文（基本モード + フルリファレンス）に準拠
+- 0.1秒タイムラインで、冒頭フックと終盤 CTA/end-card の成立性を強化
+- 7カテゴリの広告プレイブック（テック、自動車、美容、食品、ファッション、FMCG、金融/医薬）をカバー
+- Agent Skill のオープン標準形式で、Claude Code/Cowork と Codex CLI の両方に対応
+
+### インストール
+インストール手順: `skill-source/INSTALL.md`
+
+パッケージ済みファイル:
+- `minimax-h3-commercial-ad-director.skill`
+
+### 主要ドキュメント
+- コアワークフロー: `skill-source/SKILL.md`
+- 参照資料: `skill-source/references/`
+- スモークテスト: `smoketest/`
+
+### 主な利用シーン
+5-15秒の広告動画で、構成・訴求・CTAの着地を明確にした実用的なプロンプトが必要な場合に使用します。
